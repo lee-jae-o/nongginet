@@ -1,4 +1,17 @@
-**📌 개요 및 사용 기술**
+[농기넷 2256b1d066e1815a9696cb20fae37f0f.md](https://github.com/user-attachments/files/21756730/2256b1d066e1815a9696cb20fae37f0f.md)
+# 농기넷
+
+진행 기간: 2025년 4월 30일 → 2025년 6월 30일
+태그: FastAPI
+한 줄 설명: 농림축산식품부 공공데이터 활용 창업경진대회 출품작
+개발 인원(역할): 1인 개발 / 전체 기획 및 프론트·백엔드 구현
+
+
+![<농기넷 메인화면>](%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-08-10_230118.png)
+
+<농기넷 메인화면>
+
+### **📌 개요 및 사용 기술**
 
 ---
 
@@ -13,6 +26,9 @@ FastAPI와 React를 기반으로 LangChain을 활용한 RAG 챗봇 기능을 포
 - **Server**: AWS EC2
 - **Container**: Docker
 - **Editor**: Cursor
+
+<div>&nbsp;</div>
+
 
 ### 🤔 주제 선정
 
