@@ -73,7 +73,8 @@ SSL 인증도 완료하여 HTTPS 접속이 가능하도록 구성했습니다.
 
 ---
 
-![<농기넷 메뉴 구성도>](%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1%EB%8F%84_(5)_(1).jpg)
+![메뉴구성도_(5)_(1)](https://github.com/user-attachments/assets/4ec77b95-ba20-4845-8056-628ebca97206)
+
 
 <농기넷 메뉴 구성도>
 
@@ -83,7 +84,8 @@ SSL 인증도 완료하여 HTTPS 접속이 가능하도록 구성했습니다.
 
 ---
 
-![스크린샷 2025-08-10 231038.png](%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-08-10_231038.png)
+<img width="2559" height="1185" alt="스크린샷_2025-08-10_231038" src="https://github.com/user-attachments/assets/2e92e1c1-6008-46f8-9f27-e3afdcc74e76" />
+
 
 ‘2025년 농기계임대 사업시행지침’ PDF를 기반으로 구축된 RAG 챗봇으로, 해당 문서를 바탕으로 관련 질문에 답할 수 있도록 구성했습니다.
 
