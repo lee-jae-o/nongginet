@@ -28,7 +28,8 @@ FastAPI와 React를 기반으로 LangChain을 활용한 RAG 챗봇 기능을 포
 ### 📐 개발 환경 및 시스템 구성
 
 ---
-![Image](https://github.com/user-attachments/assets/c23b23f0-be02-475d-a90f-bbff783cebfe)
+
+![<농기넷 시스템 구성도>](DATA2025_(2).jpg)
 
 <농기넷 시스템 구성도>
 
