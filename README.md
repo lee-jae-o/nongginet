@@ -13,8 +13,7 @@ FastAPI와 React를 기반으로 LangChain을 활용한 RAG 챗봇 기능을 포
 - **Server**: AWS EC2
 - **Container**: Docker
 - **Editor**: Cursor
-<br>
-<br>
+
 ### 🤔 주제 선정
 
 ---
