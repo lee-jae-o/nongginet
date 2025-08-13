@@ -27,6 +27,7 @@ FastAPI와 React를 기반으로 LangChain을 활용한 RAG 챗봇 기능을 포
 - **Container**: Docker
 - **Editor**: Cursor
 
+
 <div>&nbsp;</div>
 
 
@@ -39,6 +40,10 @@ FastAPI와 React를 기반으로 LangChain을 활용한 RAG 챗봇 기능을 포
 정보 제공 기관도 제각각이고, 접근 방식이나 형식도 달라 사용자 입장에서 한눈에 정보를 파악하고 활용하기 어려운 구조였습니다.
 
 이런 불편함을 해소할 수 있는 서비스가 필요하다고 생각했고, ‘농기넷’ 이라는 서비스를 만들게 되었습니다.
+
+
+<div>&nbsp;</div>
+
 
 ### 📐 개발 환경 및 시스템 구성
 
