@@ -1,5 +1,6 @@
-[농기넷 2256b1d066e1815a9696cb20fae37f0f.md](https://github.com/user-attachments/files/21756730/2256b1d066e1815a9696cb20fae37f0f.md)
+<img width="167" height="165" alt="스크린샷 2025-08-13 233002" src="https://github.com/user-attachments/assets/f7f268c9-0ec4-4b58-8f40-dcf94603943c" />
 # 농기넷
+
 
 진행 기간: 2025년 4월 30일 → 2025년 6월 30일<br>
 태그: FastAPI<br>
